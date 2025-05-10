@@ -1,5 +1,5 @@
 # Pixiv Downloader
-A simple tool to download images or videos (Ugoira) from [Pixiv](https://www.pixiv.net)
+A simple tool to download images or animations (Ugoira) from [Pixiv](https://www.pixiv.net)
 
 
 
