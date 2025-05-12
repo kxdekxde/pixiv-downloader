@@ -40,3 +40,13 @@ A simple tool to download images or animations (Ugoira) from [Pixiv](https://www
 
 
 ### NOTE: The PHPSESSID value will expire after a month, so remember to get it again if you can't download stuff anymore.
+
+To update your PHPSESSID open these .json files with Notepad and update the values with your new PHPSESSID.
+
+
+<img src="https://files.catbox.moe/nssu15.png" width="700"/>
+
+
+<img src="https://files.catbox.moe/pt9tcj.png" width="700"/>
+
+
