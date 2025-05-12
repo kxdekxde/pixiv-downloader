@@ -6,7 +6,7 @@ A simple tool to download images or animations (Ugoira) from [Pixiv](https://www
 ## Requirements to use the scripts:
 
   - Double-click on _install_requirements.bat_ to install the required dependencies and Python 3.13
-  - Download [ffmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z) and extract the folder "ffmpeg" on the main folder directory.
+  - Download [ffmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z) and extract the folder "ffmpeg" on the main folder directory, so the path to ffmpeg.exe should be `\ffmpeg\bin\ffmpeg.exe`.
   
   
 
